@@ -57,6 +57,8 @@ dependencies {
     implementation("app.num.numandroidpagecurleffect:numandroidpagecurleffect:1.0")
     androidTestImplementation("com.android.support.test:runner:1.0.2")
 
+//    implementation("com.github.harism:android-pagecurl:2.1")
+
 
 
 }
